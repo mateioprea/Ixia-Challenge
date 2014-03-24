@@ -23,8 +23,6 @@
 #include <asm/unaligned.h>
 
 #define DRIVER_NAME "e100-ix"
-#define VENDOR_ID 0x8086
-#define ID_TABLE 0x1229
 
 /* mem struct */ 
 
